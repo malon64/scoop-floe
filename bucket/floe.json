@@ -1,12 +1,12 @@
 {
-  "version": "0.3.9",
+  "version": "0.3.10",
   "description": "YAML-driven technical ingestion tool",
   "homepage": "https://github.com/malon64/floe",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/malon64/floe/releases/download/v0.3.9/floe-v0.3.9-x86_64-pc-windows-msvc.zip",
-      "hash": "19cb6a57e4dda2ba5dce5a87baf7599d2171159a40c63954b4c513097fdc40c0",
+      "url": "https://github.com/malon64/floe/releases/download/v0.3.10/floe-v0.3.10-x86_64-pc-windows-msvc.zip",
+      "hash": "0696dc070c3e1ee5fb9494165125a704ba0a31e7bc2861c2d59ccd38d6696da0",
       "bin": "floe.exe",
       "extract_dir": "."
     }
