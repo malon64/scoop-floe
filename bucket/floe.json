@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/malon64/floe/releases/download/v0.3.10/floe-v0.3.10-x86_64-pc-windows-msvc.zip",
-      "hash": "0696dc070c3e1ee5fb9494165125a704ba0a31e7bc2861c2d59ccd38d6696da0",
+      "hash": "3f008d4043a244be3278898e9bf8f27e150f1f36f48b7f605334c0b3d86c56a3",
       "bin": "floe.exe",
       "extract_dir": "."
     }
